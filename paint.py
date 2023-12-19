@@ -8,7 +8,7 @@ class PaintApp:
         
         self.old_x = None
         self.old_y = None
-        self.line_width = 10
+        self.line_width = 5
         self.color = 'black'
         self.eraser_on = False
         
